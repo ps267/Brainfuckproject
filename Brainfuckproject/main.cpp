@@ -13,6 +13,10 @@ struct ToDo{
     char what[1024];
     
 };
+
+// Das ist eine Änderung
+
+
 using namespace std;
 int main(int argc, const char * argv[])
 {
