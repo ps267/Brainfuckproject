@@ -3,9 +3,9 @@
 *This is a very important change*
 
 ```
-[ ] vibration
+-[ ] vibration
 LOOOOOOOL
-[x] vibration
+-[x] vibration
 ```
 
 School project 2k18
